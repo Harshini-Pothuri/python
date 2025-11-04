@@ -1,0 +1,13 @@
+a=0b11+5j
+print(a)
+a=0o31+1j
+print(a)
+print(0x72+1j)
+print(0xface+5j)
+b=1.1+0.5j
+print(b)
+c=1.1+4.5j
+print(c.real)
+print(c.imag)
+print(b.real)
+print(b.imag)
